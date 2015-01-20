@@ -1,0 +1,5 @@
+---
+
+server:
+  url: http://www.domain-name.com/game/on
+  content_type: Content-Type:application/json
