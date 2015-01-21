@@ -2,6 +2,7 @@ GEM
   remote: https://ruby.taobao.org/
   specs:
     mime-types (2.4.3)
+    mysql2 (0.3.17)
     netrc (0.10.2)
     rest-client (1.7.2)
       mime-types (>= 1.16, < 3.0)
@@ -11,4 +12,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  mysql2 (~> 0.3.17)
   rest-client (~> 1.7.2)

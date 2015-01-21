@@ -20,6 +20,7 @@ puts config
 p 'test'
 
 
+
 p rand(3)
 
 chars = ('a'..'z').to_a + ('A'..'Z').to_a + ('0'..'9').to_a
