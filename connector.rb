@@ -1,8 +1,8 @@
+#!/usr/bin/env ruby
 
 require 'rubygems'
 require 'bundler/setup'
 require 'mysql2'
-require 'yaml'
 
 class Connector
   def initialize(config)

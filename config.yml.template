@@ -9,3 +9,5 @@ db:
   password: ''
   database: 'hangman'
   encoding: 'utf8'
+user:
+  id: user@abc.com

@@ -1,15 +1,15 @@
 #!/usr/bin/env ruby
 
 require './connector'
+require 'yaml'
 
 insert_list = []
 
 File.open('./allword.txt', 'r') do |file|
   file.each do |line|
     # Filter letters
-    if /^[a-z]+$/.match(line)
-      word = line.split(/\n/)[0]
-      insert_list.push(word)
+    if /^[a-z]+$/ =~ (line)
+      insert_list.push(line.chop!)
     end
   end
 end
