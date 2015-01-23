@@ -1,4 +1,7 @@
 gems
 */gems
 
-config.yml
+configs/config.yml
+scores.txt
+
+data/*

@@ -1,0 +1,20 @@
+---
+
+server:
+  url: http://www.domain-name.com/game/on
+db:
+  host: 'localhost'
+  username: 'root'
+  password: ''
+  database: 'hangman'
+  encoding: 'utf8'
+user:
+  id: user@abc.com
+max_slice: 3
+insert_bucket: 50000
+words_config:
+  - url: https://raw.githubusercontent.com/eneko/data-repository/master/data/words.txt
+    name: data/large_words.txt
+  - url: http://www-personal.umich.edu/~jlawler/wordlist
+    name: data/tiny_words.txt
+score_path: 'scores.txt'

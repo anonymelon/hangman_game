@@ -1,0 +1,17 @@
+{:session_id=>"1fc3efee0447ed0322da925956bcf486", :result=>{"sessionId"=>"1fc3efee0447ed0322da925956bcf486", "data"=>{"totalWordCount"=>80, "correctWordCount"=>46, "totalWrongGuessCount"=>280, "score"=>640}}}
+{:session_id=>"4bd47b53802b487a869523fd0ca0751b", :result=>{"sessionId"=>"4bd47b53802b487a869523fd0ca0751b", "data"=>{"totalWordCount"=>80, "correctWordCount"=>48, "totalWrongGuessCount"=>258, "score"=>702}}}
+{:session_id=>"fb7d438378182a887abe526604223258", :result=>{"sessionId"=>"fb7d438378182a887abe526604223258", "data"=>{"totalWordCount"=>80, "correctWordCount"=>38, "totalWrongGuessCount"=>283, "score"=>477}}}
+{:session_id=>"aeab09a6e67b82915fb222c11467d72a", :result=>{"sessionId"=>"aeab09a6e67b82915fb222c11467d72a", "data"=>{"totalWordCount"=>80, "correctWordCount"=>42, "totalWrongGuessCount"=>295, "score"=>545}}}
+{:session_id=>"edb1b1c2f48cd0c62dc26adccb7de74f", :result=>{"sessionId"=>"edb1b1c2f48cd0c62dc26adccb7de74f", "data"=>{"totalWordCount"=>80, "correctWordCount"=>41, "totalWrongGuessCount"=>274, "score"=>546}}}
+{:session_id=>"5e77b8ca9f3273b59dcf3cfc93ef748a", :result=>{"sessionId"=>"5e77b8ca9f3273b59dcf3cfc93ef748a", "data"=>{"totalWordCount"=>80, "correctWordCount"=>48, "totalWrongGuessCount"=>272, "score"=>688}}}
+{:session_id=>"4d34c0336d8a79a01d19daaa17646887", :result=>{"sessionId"=>"4d34c0336d8a79a01d19daaa17646887", "data"=>{"totalWordCount"=>80, "correctWordCount"=>46, "totalWrongGuessCount"=>247, "score"=>673}}}
+{:session_id=>"5b9d11e2d55f805e00fd87fc4688fd80", :result=>{"sessionId"=>"5b9d11e2d55f805e00fd87fc4688fd80", "data"=>{"totalWordCount"=>80, "correctWordCount"=>39, "totalWrongGuessCount"=>268, "score"=>512}}}
+{:session_id=>"c6da9af025c0d8c1b6d99da954e2b2f4", :result=>{"sessionId"=>"c6da9af025c0d8c1b6d99da954e2b2f4", "data"=>{"totalWordCount"=>80, "correctWordCount"=>40, "totalWrongGuessCount"=>283, "score"=>517}}}
+{:session_id=>"e7238af21c76d15b809bd9d11c7e8b8f", :result=>{"sessionId"=>"e7238af21c76d15b809bd9d11c7e8b8f", "data"=>{"totalWordCount"=>80, "correctWordCount"=>44, "totalWrongGuessCount"=>287, "score"=>593}}}
+{:session_id=>"5ba62b0db88d1214b784af4fbd86af30", :result=>{"sessionId"=>"5ba62b0db88d1214b784af4fbd86af30", "data"=>{"totalWordCount"=>80, "correctWordCount"=>42, "totalWrongGuessCount"=>289, "score"=>551}}}
+{:session_id=>"d7ae8e875ffe8eb2b3fcc5a7517a7d1b", :result=>{"sessionId"=>"d7ae8e875ffe8eb2b3fcc5a7517a7d1b", "data"=>{"totalWordCount"=>80, "correctWordCount"=>49, "totalWrongGuessCount"=>244, "score"=>736}}}
+{:session_id=>"bd991f899842517826c2a28e75510bb2", :result=>{"sessionId"=>"bd991f899842517826c2a28e75510bb2", "data"=>{"totalWordCount"=>80, "correctWordCount"=>49, "totalWrongGuessCount"=>270, "score"=>710}}}
+{:session_id=>"2313d852af0dd74346543278bbf46450", :result=>{"sessionId"=>"2313d852af0dd74346543278bbf46450", "data"=>{"totalWordCount"=>80, "correctWordCount"=>43, "totalWrongGuessCount"=>285, "score"=>575}}}
+{:session_id=>"c35f7c8bb87c6b8a8d1420b3b91b0cac", :result=>{"sessionId"=>"c35f7c8bb87c6b8a8d1420b3b91b0cac", "data"=>{"totalWordCount"=>80, "correctWordCount"=>41, "totalWrongGuessCount"=>297, "score"=>523}}}
+{:session_id=>"211f78145484e468a0d284576e00b5d0", :result=>{"sessionId"=>"211f78145484e468a0d284576e00b5d0", "data"=>{"totalWordCount"=>80, "correctWordCount"=>48, "totalWrongGuessCount"=>285, "score"=>675}}}
+

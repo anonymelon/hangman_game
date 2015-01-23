@@ -34,13 +34,3 @@ class Connector
     end
   end
 end
-
-# show_db = "show databases;"
-
-# config = YAML.load_file('config.yml')['db']
-
-# connector = Connector.new(config)
-# results = connector.exec_query(show_db)
-# results.each do |row|
-#   puts row
-# end
